@@ -1,0 +1,4 @@
+Beaker==1.10.1
+peewee==3.9.6
+PySide2==5.13.0
+shiboken2==5.13.0
